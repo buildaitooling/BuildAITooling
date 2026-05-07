@@ -40,18 +40,12 @@ Whether you're:
 - **RAG & AI Apps** — Build your own intelligent tools
 - **Fun Side Projects** — AI games, image generators, voice agents & more
 
-### 🔥 Featured Tutorial Repos
-*(Pin your best video repos here — they’ll appear automatically)*
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuildAITooling&show_icons=true&theme=tokyonight)
-
 ---
 
 <div align="center">
   <strong>💡 Get the code from every video → Star the repos you like!</strong><br>
-  <a href="https://youtube.com/@BuildAITooling">📺 Subscribe on YouTube</a> • 
-  <a href="https://github.com/BuildAITooling">⭐ Follow on GitHub</a>
+  📺<a href="https://youtube.com/@BuildAITooling">Subscribe on YouTube</a> • 
+  ⭐<a href="https://github.com/BuildAITooling">Follow on GitHub</a>
 </div>
 
 *Made with ❤️ for the AI builder community*
